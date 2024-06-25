@@ -103,8 +103,8 @@ NOTION_METADATA:
           href: null
   url: "https://www.notion.so/Litona-Germany-0850b4e70dae4e618112ad92dd6f0fc5"
   public_url: null
-UPDATE_TIME: "2024-06-25T21:02:44.160Z"
-EXPIRY_TIME: "2024-06-25T22:02:37.451Z"
+UPDATE_TIME: "2024-06-25T22:03:12.237Z"
+EXPIRY_TIME: "2024-06-25T23:03:04.482Z"
 
 ---
 
@@ -115,5 +115,5 @@ EXPIRY_TIME: "2024-06-25T22:02:37.451Z"
 Prussian White (MnFe) supplier. Rather small scale. 
 
 
-<embed src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0fcadabe-728f-4383-92e1-0d00928b07fb/a8cb6835-c3e6-4f45-a984-376f3ffbc57e/Product_Data_Sheet_Litona-PW-GenZERO_V1.2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240625%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240625T210237Z&X-Amz-Expires=3600&X-Amz-Signature=2fd27fa8932e1c5b5e68afcc6f183ee262f9e45679af0daa864729eff589477d&X-Amz-SignedHeaders=host&x-id=GetObject" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
+<embed src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0fcadabe-728f-4383-92e1-0d00928b07fb/a8cb6835-c3e6-4f45-a984-376f3ffbc57e/Product_Data_Sheet_Litona-PW-GenZERO_V1.2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240625%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240625T220305Z&X-Amz-Expires=3600&X-Amz-Signature=03d086b32b3fb566d19feeebe0d9f0e0b7aab4de3a9a4c84228ef753f23006ba&X-Amz-SignedHeaders=host&x-id=GetObject" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
 
