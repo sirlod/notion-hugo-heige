@@ -33,6 +33,7 @@
     "front-matter": "^4.0.2",
     "fs-extra": "^11.2.0",
     "markdown-table": "^2.0.0",
+    "notion-to-md": "^3.1.1",
     "yaml": "^2.4.2"
   },
   "devDependencies": {
