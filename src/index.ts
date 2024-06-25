@@ -45,12 +45,12 @@ async function main() {
   }
 
   // remove posts that exist locally but not in Notion Database
-  // const contentFiles = getAllContentFiles("content");
-  // for (const file of contentFiles) {
-  //   if (!page_ids.includes(file.metadata.id)) {
-  //     fs.removeSync(file.filepath);
-  //   }
-  // }
+  const contentFiles = getAllContentFiles("content");
+  for (const file of contentFiles) {
+    if (!page_ids.includes(file.metadata.id)) {
+      fs.removeSync(file.filepath);
+    }
+  }
 }
 
 main()
