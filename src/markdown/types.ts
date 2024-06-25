@@ -3,6 +3,7 @@ import { Client } from "@notionhq/client";
 
 export interface NotionToMarkdownOptions {
   notionClient: Client;
+  config?: ConfigurationOptions;
 }
 
 export type MdBlock = {
@@ -21,3 +22,9 @@ export type CalloutIcon =
 export type CustomTransformer = (
   block: GetBlockResponse
 ) => string | Promise<string>;
+
+export type ConfigurationOptions = {
+  separateChildPage?: boolean;
+  convertImagesToBase64?: boolean;
+  parseChildPages?: boolean;
+};

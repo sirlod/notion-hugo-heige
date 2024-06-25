@@ -42,7 +42,12 @@ function getExpiryTime(
 
 export async function renderPage(page: PageObjectResponse, notion: Client) {
   // load formatter config
-  const n2m = new NotionToMarkdown({ notionClient: notion });
+  const n2m = new NotionToMarkdown({ 
+    notionClient: notion,
+    config:{
+    separateChildPage:true, // default: false
+    }
+  });
   n2m.setUnsupportedTransformer((type) => {
     return `{{< notion-unsupported-block type=${type} >}}`;
   });
