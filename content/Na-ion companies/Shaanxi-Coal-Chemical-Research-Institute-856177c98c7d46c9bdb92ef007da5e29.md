@@ -116,8 +116,8 @@ NOTION_METADATA:
   url: "https://www.notion.so/Shaanxi-Coal-Chemical-Research-Institute-856177c98c\
     7d46c9bdb92ef007da5e29"
   public_url: null
-UPDATE_TIME: "2024-06-25T23:02:24.182Z"
-EXPIRY_TIME: "2024-06-26T00:02:08.492Z"
+UPDATE_TIME: "2024-06-26T00:30:39.131Z"
+EXPIRY_TIME: "2024-06-26T01:30:26.419Z"
 
 ---
 
@@ -125,5 +125,5 @@ EXPIRY_TIME: "2024-06-26T00:02:08.492Z"
 [http://sxccti.com/](http://sxccti.com/)
 
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/0fcadabe-728f-4383-92e1-0d00928b07fb/ba3606e4-63ad-43a8-8876-c25301ceaac0/Untitled.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240625%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240625T230208Z&X-Amz-Expires=3600&X-Amz-Signature=0b8614a384ee7d5bc15c8d780bd936b253a4ddfe3cd8608b56db71e4e699cee6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/0fcadabe-728f-4383-92e1-0d00928b07fb/ba3606e4-63ad-43a8-8876-c25301ceaac0/Untitled.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240626%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240626T003026Z&X-Amz-Expires=3600&X-Amz-Signature=fce7231363ab5b416e3f68f3e3dfd8fd1e4f442479a6ac3e65b12d533374b96d&X-Amz-SignedHeaders=host&x-id=GetObject)
 
